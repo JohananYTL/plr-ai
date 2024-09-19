@@ -1,0 +1,1014 @@
+@charset "UTF-8";
+/* CSS Document */
+/*iPhone 4,4s,5,5s-potrait*/
+@media only screen and (width : 320px) {
+#hidden-nav{
+	top:112px !important;
+}
+.i5Height90{
+	height:90px !important}
+#ulPress{
+	min-width:58% !important}
+.borderBoxDinTextBox {
+	min-height: 500px !important;
+}
+.contactTopLine {
+	width: 108% !important;
+}
+.panel-body {
+	padding: 15px 5px !important
+}
+.title-container {
+/*top: 253px !important*/
+}
+.footer-content {
+	width: 77% !important;
+	font-size: 11px !important;
+}
+.reg-btn {
+	width: 150px !important;
+}
+.footer-logocontainer {
+	padding-left: 13px;
+}
+#ulTROB {
+	width: 92% !important;
+	/*margin-left: -15px !important;*/
+	letter-spacing: -0.5px;
+}
+#ulPure {
+	width: 108% !important;
+	margin-left: -10px;
+	min-width: 108%;
+}
+.footer-logocontainer a {
+	float: left
+}
+.footer-logocontainer img {
+	max-width: 90% !important;
+}
+.iPhone4Button {
+	max-width: 260px !important;
+	font-size: 10px !important
+}
+.borderBoxAccTextBox {
+	height: 350px !important
+}
+.iPhone5CBtn {
+	margin-left: 15px !important;
+}
+.diningMax380{
+	min-height: 380px !important;
+	max-height: 380px !important;
+}
+.iPadTextLeft{
+	text-align:left !important;
+}
+}
+@media only screen and (min-width: 412px) {
+
+.mobile {
+	display: none
+}
+#ulOS {
+	display: block
+}
+.desktop {
+	display: block
+}
+/*.contactLine {
+	border-right: 1px solid #c1c1c1;
+	height: 100px;
+	padding: 20px 0
+}*/
+.contactTopLine {
+	width: 110%;
+	margin-left: -5% !important;
+}
+}
+/*@media only screen and (max-width: 766px) {*/
+@media only screen and (max-width: 1023px) {
+/*.top{display: none !important
+}*/
+.mNopadding{
+	padding:0 !important;
+	}
+.titleH{
+	min-height:25px !important;
+}
+.contentH{
+	min-height:50px !important;
+	}
+.borderBoxPressTextBox2 {
+    padding: 90px 0 40px 0;
+    border: 1px solid #c1c1c1;
+    max-height: 628px;
+    height: 350px;
+}
+.pressPaddingTop{
+	padding-top:80px !important;
+}
+.borderBtn{
+	min-width:80% !important}
+.fullWidth{
+	width:100% !important;
+}
+.soMarginTop{
+	margin-top:-90px !important
+}
+.borderBoxDinTextBox {
+	height: 420px !important;
+}
+.spaDot {
+	width: 5px;
+	height: 5px;
+	border-radius: 30px;
+	margin: 5px 20px;
+	background: black;
+}
+.forceHalf {
+	width: 50% !important;
+	float: left !important;
+}
+.contactLine:first-child {
+	border-top: none;
+	border-bottom: none;
+}
+.contactLine {
+	border-top: 1px solid #c1c1c1;
+	border-bottom: 1px solid #c1c1c1;
+	padding: 25px 0 !important
+}
+.team-text {
+	padding: 10px 0 !important
+}
+.borderBox h4 {
+	font-family: 'TrajanProRegular', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+input {
+	-webkit-appearance: none;
+	border-radius: 0;
+}
+.collapse.in {
+	text-align: justify !important
+}
+
+.mobile {
+	display: block !important
+}
+#ulOS {
+	display: none
+}
+.desktop {
+	display: none !important
+}
+.borderBox {
+	border: 1px solid #c1c1c1;
+	padding: 10px !important;
+	margin: 20px 0;
+	font: Arial, Helvetica, sans-serif;
+	/*padding-bottom: 0 !important*/
+}
+.mborderBox{
+	padding-bottom:0 !important;
+}
+#features {
+	padding: 20px !important
+}
+.noMargin {
+	margin: 0 !important;
+}
+.footer-content {
+	width: 75% !important;
+	margin: 0 0 0 12% !important;
+}
+contactLine {
+	border-right: none !important;
+	height: 100px !important;
+	padding: 20px 0 !important
+}
+.contactTopLine {
+	min-width: 106% !important;
+	margin-left: -10px !important;/*width: 100% !important;
+	margin-left: 0% !important;*/
+}
+#fmenu-container #left-content ul {
+	padding: 0 10% !important;
+	margin: 10px 0 !important
+}
+#meet-team.col-sm-6, .col-md-3, .col-md-6, .col-md-4, .col-sm-2h, .col-md-2h {
+	padding-bottom: 40px !important
+}
+#meet-team.col-sm-8,.col-md-8{
+	padding-top:50px;
+}
+#meet-team.col-sm-2, .col-md-2 img {
+	margin: 0 auto !important;
+}
+/*#ulPress {
+	width: 49% !important;
+	margin-top: -50px !important;
+}*/
+#ulPress li a {
+	/*margin: 0 16px !important*/
+}
+#ulTROB {
+	margin-top: -48px !important;
+	font-size: 11px !important;/*padding-left: 20px !important*/
+}
+#ulPure {
+	margin-top: -50px !important;
+	width: 89% !important
+}
+ul#ulPure>li a {
+	margin: 0 5px!important
+}
+#mobilePhoto.col-lg-6 {
+	padding: 5px 0 !important
+}
+#meet-team .team-info h3 {
+	margin-bottom: 0 !important
+}
+#fmenu-container #left-content ul {
+	width: 100% !important;
+}
+#fmenu-container #right-content ul{
+	text-align:center !important;
+}
+#footer{
+	padding-bottom:40px !important
+}
+#footer-logos{
+	display:none
+	}
+#hidden-footer-logos{
+	display:block !important;
+	margin-top: 180px;
+	}
+/*#fmenu-container #left-content ul {
+    width: 120% !important;
+	padding: 0 27% 0 10% !important;
+}
+#fmenu-container #left-content ul li {
+    margin-right: 14px !important;
+}*/
+.tableTittle {
+	margin-bottom: -20px !important;
+}
+#ulOS {
+	display: none
+}
+.scrollNavi {
+	display: none !important
+}
+.title-container {
+    top: 120px !important;
+}
+#fmenu-container {
+	padding: 13px 0 15px 0 !important;
+}
+}
+@media only screen and (min-width: 1024px) {
+.contactLine {
+	border-right: 1px solid #c1c1c1;
+	height: 100px;
+	padding: 20px 0
+}
+.dRight{
+	float:right !important
+}
+}
+@media only screen and (max-width: 1199px) {
+.gd-expander{
+	margin-top: -20px !important;
+}
+#ulG {
+    width: 71% !important;
+    margin-top: -50px;
+}
+.grid figure {
+    min-width: 303.33px !important;
+    max-height: 303.33px !important;
+}
+.span3 {
+    width: 303.33px !important;
+}
+.scrollNavi{
+	display: none !important
+}
+#ulOS4 {
+    width: 81% !important;
+	margin-top:-50px !important
+}
+.borderBoxAccTextBox{
+    max-height: 400px !important;
+    min-height: 300px !important;
+}
+.borderBoxDinTextBox{
+    max-height: 380px !important;
+    min-height: 200px !important;
+}
+.borderBoxEvnTextBox{
+    max-height: 650px !important;
+    min-height: 600px !important;
+}
+#meet-team{
+	padding: 20px 0 !important;
+}
+#fmenu-container #left-content ul {
+    width: 34% ;
+    text-align: center !important;
+    margin-top: 0px !important;
+}
+.tab-content{
+	/*text-align:center !important;*/
+}
+.borderBoxPressTextBox{
+	max-height:350px !important}
+}
+@media only screen and (max-width: 991px) {
+.PadLeft{
+	margin: 10px 0 0 -5px !important;
+}
+.PadRight{
+	margin: 10px -5px 0 0px !important;
+}
+#ulPress {
+    padding: 0 38% !important;
+}
+.title-container {
+    top: 130px !important;
+}
+}
+@media only screen and (max-width: 719px) {
+	#ulPress {
+    padding: 0 37% !important;
+}
+}
+@media only screen and (max-width: 667px) {
+	#ulPress {
+    padding: 0 36% !important;
+}
+}
+@media only screen and (max-width: 623px) {
+	#ulPress {
+    padding: 0 35% !important;
+}
+}
+@media only screen and (max-width: 582px) {
+	#ulPress {
+    padding: 0 34% !important;
+}
+}
+@media only screen and (max-width: 548px) {
+	#ulPress {
+    padding: 0 33% !important;
+}
+}
+@media only screen and (max-width: 518px) {
+	#ulPress {
+    padding: 0 32% !important;
+}
+}
+@media only screen and (max-width: 490px) {
+	#ulPress {
+    padding: 0 31% !important;
+}
+}
+@media only screen and (max-width: 466px) {
+	#ulPress {
+    padding: 0 30% !important;
+}
+}
+@media only screen and (max-width: 444px) {
+	#ulPress {
+    padding: 0 29% !important;
+}
+}
+@media only screen and (max-width: 424px) {
+	#ulPress {
+    padding: 0 28% !important;
+}
+}
+@media only screen and (max-width: 407px) {
+	#ulPress {
+    padding: 0 27% !important;
+}
+}
+@media only screen and (max-width: 375px) {
+	#ulPress {
+    padding: 0 26% !important;
+}
+}
+@media only screen and (max-width: 325px) {
+	.reg-field-de {
+    width: 100px !important;
+}
+}
+@media only screen and (max-width: 310px) {
+	.reg-field-de {
+    width: 90px !important;
+}
+}
+@media only screen and (max-width: 320px) {
+	#ulPress {
+    padding: 0 20% !important;
+}
+}
+@media only screen and (max-width: 644px) {
+	.title-container {
+    top: 187px !important; 
+}
+.reg-field-de{
+	margin-bottom:20px !important
+}
+.footer-content {
+    width: 100% !important;
+    margin: 0 0 0 0% !important;
+}
+
+}
+@media only screen and (max-width: 600px) {
+	.title-container {
+    top: 201px !important; 
+}
+.reg-field-de{
+	margin-bottom:0px !important}
+}
+
+/*====================================================================================================================================================================================================================*/
+/*iPad-lanscape*/
+@media only screen and (width : 1024px) {
+	#ulPress{
+		/*margin-top:-50px;*/
+		}
+#main-menu.navbar-default .navbar-nav > li > a {
+	font-size: 12px !important
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+	padding-bottom: 7px !important;
+}
+#fmenu-container #left-content ul li {
+	margin-right: 10px !important;
+}
+.reg-field-de {
+	width: 200px !important;
+}
+.footer-content {
+	width: 47% !important;
+	margin: 0 0 0 26% !important;
+}
+.footer-logocontainer img {
+/*width: 80% !important;
+	height: 80% !important;*/
+}
+#ulOS {
+	width: 70% !important
+}
+#ulOS2 {
+	width: 34% !important;
+	margin-top: -50px;
+}
+#ulOS3 {
+	width: 27% !important;
+	margin-top: -50px;
+}
+#ulOS4 {
+	width: 81% !important;
+	margin-top: -50px;
+}
+#ulA {
+	width: 43% !important;
+}
+.borderBoxAccTextBox {
+	height: 518px !important;
+}
+#ulD {
+	width: 74% !important
+}
+#ulPure {
+	width: 63% !important;
+	margin-top: -50px;
+}
+.borderBoxDinTextBox {
+	height: 378px !important;
+}
+#ulPA {
+	width: 56% !important;
+	margin-top: -50px;
+}
+#ulSV {
+	width: 68% !important;
+	margin-top: -50px;
+}
+#ulEWO {
+	    padding: 0 2% !important;
+	/*width: 96% !important;
+	margin-top: -50px;*/
+}
+#ulG {
+	width: 71% !important;
+	margin-top: -50px
+}
+.activities .nav-tabs>li>a {
+	/*margin-right: 15px !important;*/
+}
+#fmenu-container #left-content ul {
+	width: 38% !important;
+	text-align: center !important;
+	margin-top: 0px !important;
+}
+#ulTROB {
+	width: 89%;
+	/*margin-left: 4px !important;*/
+	font-size: 10px;
+	margin-top: -47px;
+}
+.reservation-header ul{
+	margin-right:50px !important;
+}
+#main-menu.navbar-default .navbar-nav > li.active > a, #main-menu.navbar-default .navbar-nav > li.open > a, #main-menu.navbar-default .navbar-nav > li:hover > a{
+	padding-bottom:8px !important
+}
+.span3{
+	width:303.33px !important;
+}
+.grid figure{
+	min-width:303.33px !important;
+	max-height:303.33px !important
+}
+.gd-expander{
+	margin-top: -20px !important;
+}
+.borderBox4{
+	min-height:210px !important
+}
+.borderBoxPressTextBox {
+    height: 453px !important;
+}
+
+}
+
+/*====================================================================================================================================================================================================================*/
+/*iPad-potrait*/
+@media only screen and (width : 768px) {
+.active #hidden-header {
+     margin-top: -5px !important; 
+}
+#hidden-nav ul{
+	text-indent: 18px !important;
+	}
+.title-container {
+    top: 158px !important;
+}
+#footer {
+   /* padding-bottom: 150px !important;*/
+}
+.iPadmarginTop-17{
+	margin-top:-17px;
+	}
+.span3{
+	width:230px !important;
+}
+.grid figure{
+	min-width:230px !important;
+	max-height:230px !important
+}
+.gd-expander{
+	left:0 !important;
+	margin-top: 130px !important;
+}	
+.gd-inner img {
+    width: 720px !important;
+    height: 380px !important;
+}
+li.span3.gd-expanded{
+	max-height:600px !important;
+}
+figure.effect-ming p{
+	padding:0 !important;
+}
+.iPadHome1{ margin-right:1px !important;
+}
+.iPadHome2{ margin-left:-1px !important;
+}
+
+#meet-team.col-sm-6, .col-md-3, .col-md-6, .col-md-4, .col-sm-2h, .col-md-2h {
+	padding-bottom: 40px !important
+}
+.borderBoxAccTextBoxInner {
+	top: 45% !important
+}
+.borderBoxAccTextBox {
+	height: 370px !important
+}
+.borderBoxDinTextBox {
+	height: 290px !important
+}
+.borderBoxDinTextBoxInner {
+	max-height: 265px !important;
+	overflow: auto
+}
+#ulEWO {
+	width: 101% !important;
+	font-size: 9px !important;
+	margin-top: -45px;
+}
+#ulG {
+	width: 92% !important;
+	margin-top: -50px;
+}
+#ulPure {
+	width: 84% !important;
+	margin-top: -50px;
+}
+#ulSV {
+	width: 89% !important;
+	margin-top: -50px;
+}
+#ulOS4 {
+	width: 105% !important;
+	margin-top: -50px;
+	margin-left: -15px
+}
+#ulOS2 {
+	width: 46% !important;
+	margin-top: -50px !important;
+}
+#ulOS3 {
+	width: 37% !important;
+	margin-top: -50px !important;
+}
+#ulTROB {
+	width:97% !important;
+	margin-top: -44px;
+	font-size: 8px;
+	/*margin-top: -86px;*/
+}
+.PadRight {
+	/*margin: 0 -5px 5px 0 !important;*/
+	width: 50%;
+    float: left;
+}
+.PadRight img{
+	width:100%
+}
+.PadLeft {
+	/*margin: 0 0 5px -5px !important;*/
+	width: 50%;
+    float: left;
+}
+.PadLeft img{
+	width:100%
+}
+ .headerHeight {
+ height: 80px !important;
+}
+#meet-team .team-info h3 {
+	font-size: 17px !important;
+}
+.col-sm-6 {
+	padding-bottom: 20px
+}
+.scrollNavi ul li a {
+	padding: 20px 10px !important;
+}
+#ulOS {
+	width: 91% !important
+}
+#ulOS2 {
+	width: 46% !important;
+	margin-top: -50px;
+}
+#ulOS3 {
+	width: 37% !important;
+	margin-top: -50px;
+}
+#ulOS4 {
+	width: 105% !important;
+	margin-top: -41px;
+}
+.TabNaviIcon .nav-tabs>li>a img {
+	width: 80%;
+	height: 80%;
+}
+#ulA {
+	width: 57% !important;
+}
+.borderBoxAccTextBox {
+	height: 370px !important;
+}
+.c2a {
+	margin-top: 0 !important;
+}
+.borderBoxAccTextBox img {
+	padding: 0 10px !important;
+}
+#ulD {
+	width: 96% !important
+}
+.borderBoxDinTextBox {
+	height: 289px !important;
+}
+p {
+	line-height: normal !important
+}
+#ulPA {
+	width: 72% !important;
+	margin-top: -50px;
+}
+.activities .nav-tabs>li>a {
+	/*margin-right: 25px !important;*/
+}
+#ulSV {
+	width: 89% !important;
+	margin-top: -50px;
+}
+
+#ulEWO {
+	width: 101% !important;
+	margin-top: -45px;
+}
+.col-sm-2h,.col-md-2h{
+	padding:0 5px !important;
+}
+.iPadTextLeft{
+	text-align:left !important;
+}
+.iPadMargintop10{
+	margin-top:-10px
+}
+.contactLine{
+	border-right: 1px solid #c1c1c1;
+}
+.col-md-4iPad{
+	width:33.3%;
+	float:left
+}
+.contactTopLine {
+    width: 116%;
+    margin-left: -8% !important;
+}
+.iPadSmallBtn{
+	font-size:9px !important;
+	letter-spacing:0.5px !important
+}
+.iPadtableLeft{
+	margin-left: -35px;
+}
+.iPadPaddingLess{
+	padding:0 5px !important
+}
+.iPadTextLeft{
+	text-align:left !important
+}
+.iPadWidth40{
+	width:40% !important;
+}
+.iPadMarginTop17{
+	margin-top: 17px;
+}
+.iPadMarginTop12{
+	margin-top: 12px;
+}
+/*#ulPress {
+    width: 24% !important;
+	margin-top:-50px;
+}*/
+.iPadWidth33{
+	width:33.33% !important
+}
+.borderBox4{
+	min-height:210px !important;
+}
+.borderBoxPressTextBox {
+    height: 348px !important;
+}
+.iPadText11{
+	font-size:11px !important
+}
+.gVideo{
+	max-width:720px !important;
+	max-height:380px !important;
+}
+#fmenu-container{
+	padding: 49px 0 5px 0 !important;
+}
+.footer-content {
+    width: 100% !important;
+    margin: 0px !important;
+}
+#hidden-footer-logos {
+    margin-top: 150px !important;
+}
+}
+/*iPhone 6 Plus-potrait*/
+@media only screen and (width : 414px) {
+
+#hidden-nav{
+	top:112px !important;
+}.contactTopLine {
+	width: 107% !important;
+}
+#ulTROB {
+	padding-left: 20px !important
+}
+.col-sm-6 {
+	padding-bottom: 20px
+}
+.footer-content {
+	width: 60% !important;
+	margin: 0 0 0 20% !important;
+}
+#hidden-footer-logos {
+	margin-top: 200px !important;
+}
+#ulOS {
+	display: none
+}
+#ulOS2 {
+	display: none
+}
+#ulOS3 {
+	display: none
+}
+#ulOS4 {
+	display: none
+}
+#ulA {
+	display: none
+}
+.borderBoxAccTextBox {
+	height: 380px !important;
+}
+#ulD {
+	display: none
+}
+.borderBoxDinTextBox {
+	height: 380px !important;
+}
+#ulPA {
+	width: 99% !important;
+	margin-top: -50px;
+}
+/*.activities .nav-tabs>li>a {
+	margin-right: 15px !important;
+}*/
+#ulSV {
+	width: 66% !important;
+	margin-top: -120px;
+	display: inline-block !important;
+	font-size: 10px !important;
+}
+hr {
+	display: none
+}
+.iPhone6CBtn {
+	margin-left: 15px !important;
+}
+}
+/*====================================================================================================================================================================================================================*/
+/*====================================================================================================================================================================================================================*/
+/*iPhone 6 Plus-lanscape*/
+@media only screen and (width : 736px) {
+.col-sm-6 {
+	padding-bottom: 20px
+}
+.scrollNavi ul li a {
+	padding: 20px 10px !important;
+}
+#ulOS {
+	width: 93% !important
+}
+#ulOS2 {
+	width: 104% !important;
+	margin-top: -50px;
+}
+#ulOS3 {
+	width: 59% !important;
+	margin-top: -50px;
+}
+#ulOS4 {
+	width: 108% !important;
+	margin-top: -41px;
+}
+.TabNaviIcon .nav-tabs>li>a img {
+	width: 80%;
+	height: 80%;
+}
+}
+
+/*====================================================================================================================================================================================================================*/
+
+/*iPhone 6-potrait*/
+@media only screen and (width : 375px) {
+#hidden-footer-logos {
+	margin-top: 220px !important;
+}
+div#left-content {
+	width: 100%;/*margin-left: -15px;*/
+}
+#hidden-nav{
+		top: 112px !important;
+}
+#ulTROB {
+    width: 82% !important;
+}
+#ulPure{
+    width: 91% !important;
+}
+.borderBoxAccTextBox{
+	height: 350px !important;
+}
+.borderBoxDinTextBox {
+    height: 400px !important;
+}
+.iPhone6CBtn {
+	margin-left: 15px !important;
+}
+
+}
+/*====================================================================================================================================================================================================================*/
+
+/*====================================================================================================================================================================================================================*/
+/*iPhone 6-lanscape*/
+@media only screen and (width : 667px) {
+.contactTopLine{
+	min-width: 100% !important;
+    margin-left: -9px !important;
+	width: 103%;
+}
+
+#hidden-footer-logos {
+    margin-top: 160px !important;
+}
+#ulTROB {
+    width: 45% !important;
+}
+.borderBoxAccTextBox{
+	height: 350px !important;
+}
+/*#ulPress{
+	width: 27% !important;
+}*/
+.item.active .img-responsive{
+    width: 100%;
+}
+.team-img .img-responsive{
+    width: 100%;
+}
+.col-lg-6 .img-responsive{
+    width: 100%;
+}
+.borderBoxDinTextBox {
+    max-height: 300px !important;
+}
+#ulPure {
+    width: 47% !important;
+}
+.forceHalf {
+    width: 100% !important;
+    float: none !important;
+}
+}
+
+
+/*====================================================================================================================================================================================================================*/
+/*iPhone 4,4s,5,5s-lanscape*/
+@media only screen and (width : 568px) {
+	#hidden-nav{
+		top: 112px !important;
+	}
+	.contactTopLine{
+		min-width: 100% !important;
+		width: 104% !important;
+}
+#hidden-footer-logos {
+    margin-top: 210px !important;
+}
+#ulTROB {
+    width: 53% !important;
+}
+.borderBoxAccTextBox {
+    height: 350px !important;
+}
+.borderBoxDinTextBox {
+    height: 350px !important;
+}
+#ulPure {
+    width: 56% !important;
+}
+.forceHalf {
+    width: 100% !important;
+    float: none !important;
+}
+/*#ulPress{
+	width: 31% !important;
+}*/
+.team-img .img-responsive{
+    width: 100%;
+}
+
+
+}

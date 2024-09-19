@@ -1,0 +1,149 @@
+#<Files ~ "^\.(htaccess|htpasswd)$">
+#deny from all
+#</Files>
+#Options +SymLinksIfOwnerMatch
+#RewriteEngine on
+
+#RewriteCond %{REQUEST_FILENAME} !-f 
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /index.html [L]
+
+ErrorDocument 404 /404page.html
+
+Redirect /index.htm /index.html
+Redirect /Have /index.html
+Redirect /jp /index.html
+Redirect /chinese/index.htm /index.html
+
+Redirect /malaysia/index.htm /our-story.html
+Redirect /malaysia/land.htm /our-story.html
+Redirect /intro.htm /our-story.html
+Redirect /facilities/index.htm /our-story.html
+Redirect /about.html /our-story.html
+Redirect /info.htm /our-story.html
+Redirect /chinese/info.htm /our-story.html
+Redirect /facility_service/spa-village.html /our-story.html
+Redirect /information/index.shtml /our-story.html
+Redirect /recommendations.htm /our-story.html
+
+Redirect /dining/index.htm /dining.html
+Redirect /dining/unclelim.htm /dining.html
+Redirect /dining.htm /dining.html
+Redirect /Dining/ /dining.html
+
+Redirect /accommodation.html /villas.html
+Redirect /accommodation/sea-villa.html /villas.html
+Redirect /accommodation/spa-villa.html /villas.html
+Redirect /accommodation/index.htm /villas.html
+Redirect /chinese/accomodation.htm /villas.html
+Redirect /accommodation/pavarotti-suite.html /villas.html
+
+Redirect /estates/index.htm /the-estates.html
+Redirect /estates /the-estates.html
+Redirect /estates.htm /the-estates.html
+Redirect /chinese/estates/e8_pool.htm /the-estates.html
+Redirect /chinese/estates/e7_pool.htm /the-estates.html
+Redirect /chinese/estates/e1_pool.htm /the-estates.html
+Redirect /chinese/estates/e2_pool.htm /the-estates.html
+Redirect /chinese/estates/e4_pool.htm /the-estates.html
+Redirect /chinese/estates/e5_pool.htm /the-estates.html
+Redirect /chinese/estates/e6_pool.htm /the-estates.html
+Redirect /chinese/estates/e9_pool.htm /the-estates.html
+
+Redirect /conference/refreshments.htm /events-celebrations.html
+
+Redirect /weddings/index.htm /eventWeddingOffering.html
+Redirect /weddings/gallery/index.html /eventWeddingOffering.html
+Redirect /weddings /eventWeddingOffering.html
+
+Redirect /weddings-honeymoons/wedding-boat.ht /eventHoneyMoon.html
+Redirect /weddings-honeymoons/ /eventHoneyMoon.html
+Redirect /weddings-honeymoons/wedding-emerald.htm /eventHoneyMoon.html
+Redirect /weddings-honeymoons/wedding-boat.htm /eventHoneyMoon.html
+Redirect /weddings-honeymoons/index.htm /eventHoneyMoon.html
+
+Redirect /events-celebrations.html /events.html
+Redirect /eventCapacity.html /events.html
+Redirect /eventGroupValueOffer /events.html
+Redirect /eventHoneyMoon /weddings.html
+Redirect /events-celebrations /weddings.html
+Redirect /eventsWeddingOffering /weddings.html
+
+Redirect /spa.htm /spa-village.html
+Redirect /spa/index.htm /spa-village.html
+Redirect /spa/ /spa-village.html
+Redirect /spa-roomge.html /spa-village.html
+Redirect /spa-village /spa-village.html
+Redirect /spa-village.html) /spa-village.html
+Redirect /spa.htm%20(2006-12-12 /spa-village.html
+Redirect /%20spa.html /spa-village.html
+
+Redirect /activities/jungle.htm /pure-activities.html
+Redirect /activities/index.htm /pure-activities.html
+
+Redirect /contact/index.htm /contact-us.html
+Redirect /malaysia/air.htm /contact-us.html
+Redirect /Download/PLR_location_map.pdf /contact-us.html
+Redirect /location.htm /contact-us.html
+Redirect /Location/index.htm /contact-us.html
+Redirect /info/location.htm /contact-us.html
+Redirect /malaysia/sea.htm /contact-us.html
+
+Redirect /awards/index.htm /accolades.html
+Redirect /awards.htm /accolades.html
+Redirect /awards/reviews.htm /accolades.html
+
+Redirect /video.htm /gallery.html
+
+Redirect /packages/index.htm /special-offers.html
+Redirect /packages/seaside_city_lights_escape.htm /special-offers.html
+Redirect /packages/residents-package.htm /special-offers.html
+Redirect /packages/romantic-retreat.htm /special-offers.html
+Redirect /packages/best-available-rate.htm /special-offers.html
+Redirect /Packages/index.htm /special-offers.html
+Redirect /packages/advance-advantage.htm /special-offers.html
+Redirect /packages/chapmans_challenge.htm /special-offers.html
+Redirect /packages/signature_villa_retreat.htm /special-offers.html
+Redirect /packages/island-escape.htm /special-offers.html
+Redirect /packages/signature_villas_retreat.htm /special-offers.html
+Redirect /package/index.html /special-offers.html
+Redirect /packages/private-island-dreamin.htm /special-offers.html
+Redirect /packages/luxury-breaks.htm /special-offers.html
+Redirect /packages/ /special-offers.html
+Redirect /reserve.php /special-offers.html
+Redirect /rates/index.htm /special-offers.html
+Redirect /chinese/rates.htm /special-offers.html
+Redirect /rates.htm /special-offers.html
+Redirect /special-offers-active-in-paradise.html /special-offers.html
+Redirect /special-offers-idyllic-retreat.html /special-offers.html
+Redirect /special-offers-residents-package.html /special-offers-all-meals.html
+Redirect /special-offers-early-bird-advantage.html /special-offers-room-breakfast2.html
+Redirect /special-offers-the-estates-discovery.html /special-offers.html
+Redirect /special-offers-healing-culture-retreat.html /special-offers.html
+Redirect /special-offers-idyllic-retreat.html /special-offers.html
+Redirect /special-offers-chapmans-challenge.html /special-offers.html
+Redirect /special-offers-pavarotti-experiences.html /special-offers.html
+Redirect /special-offers-romantic-retreat.html /special-offers.html
+Redirect /special-offers-one-for-one.html /special-offers.html
+Redirect /special-offers-one-for-one-special.html /special-offers.html
+Redirect /special-offers-three-for-two.html /special-offers.html
+Redirect /special-offers-all-inclusive.html /special-offers.html
+
+
+
+Redirect /Download/Pressroom/FactSheet/PLR_BrochureChinese.pdf /press.html
+Redirect /Download/Pressroom/FactSheet/PLR_FactSheet.pdf /press.html
+Redirect /Download/Pressroom/FactSheet/PLR_BrochureJapanese.pdf /press.html
+Redirect /Download/Pressroom/FactSheet/PLR_FactSheet20100727.pdf /press.html
+Redirect /Download/Pressroom/PLRQuickReferenceGuide.pdf /press.html
+Redirect /Download/Pressroom/FactSheet/10CoolThings.pdf /press.html
+Redirect /Download/marinaislandpangkor.pdf /press.html
+Redirect /PDF/Press-Release/The_Chronicle_of_ /press.html
+
+Redirect /activities/chapmans_challenge.htm /the-chapmans-challenge.html
+Redirect /act%E2%80%A6/chapmans_challenge.htm  /the-chapmans-challenge.html
+
+Redirect /tembokbali.com/html/index.html /404page.html
+Redirect /muse-hotels.com/html/pages/events-celebrations.html /404page.html
+Redirect /muse-hotels.com/html/pages/accolades.html /404page.html
+Redirect /muse-hotels.com/html/pages/dining.html /404page.html
